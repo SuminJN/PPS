@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// https://www.acmicpc.net/problem/10250
 public class D002 {
 
     static int H, W, N, room;

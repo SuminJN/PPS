@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-// https://www.acmicpc.net/problem/1475 - A017
+// https://www.acmicpc.net/problem/1475
 public class A017 {
 
     public static void main(String[] args) throws IOException {
